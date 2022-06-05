@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aliamirpoor
-- 👀 I’m interested in changing life structuree which are going happen by using blockchain technology
+- 👀 I’m interested in changing life structures which are going happen by using blockchain technology
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
